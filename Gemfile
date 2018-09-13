@@ -28,7 +28,7 @@ gem 'spring',        group: :development
 
 gem 'haml'
 gem 'rest-client'
-gem 'bootstrap', '~> 4.0.0.alpha1'
+gem 'bootstrap', '~> 4.1.2'
 gem 'bootstrap_colorpicker_rails'
 
 source 'https://rails-assets.org' do
